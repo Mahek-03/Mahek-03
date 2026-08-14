@@ -13,7 +13,7 @@
 -  Currently learning **[skill / tech]**
 -  Ask me about **[your expertise]**
 -  Reach me at **mahek.chaurasia03@gmail.com**
--  Fun fact: **[something fun about you]**
+-  Fun fact: It is physically impossible to hum a tune while holding your nose closed.
 
 ---
 
