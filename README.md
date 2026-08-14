@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+build+cool+things+with+code;Always+learning%2C+always+building;Let's+create+something+awesome+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+<p align="center"> <img src="" width="400"> </p>https://media.giphy.com/media/26u4b45b8KlgAB5PS/giphy.gif
+
 
 ---
 
@@ -12,7 +14,7 @@
 -  Currently working on **[project name]**
 -  Currently learning **[skill / tech]**
 -  Ask me about **[your expertise]**
--  Reach me at **your.email@example.com**
+-  Reach me at **mahek.chaurasia03@gmail.com**
 -  Fun fact: **[something fun about you]**
 
 ---
