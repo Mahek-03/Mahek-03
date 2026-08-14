@@ -46,9 +46,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahek-03&label=Profile+Views&color=DC143C&style=for-the-badge" />
-</p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ from a repo you like.</i></p>
 
