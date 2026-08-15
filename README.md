@@ -43,6 +43,6 @@
 ---
 
 
-<p align="center"><i>Thanks for stopping by! ⭐ from a repo you like.</i></p>
+<p align="center"><i>Thanks for stopping by! Give a ⭐ to a repo you like.</i></p>
 
 
