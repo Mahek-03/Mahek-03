@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahek Chaurasia</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I'm+Learning+%26+Building+AI+Agents;I'm+Diving+into+Full+Stack+Development;Let's+create+something+awesome+%E2%9C%A8" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"> </p>
+<h1 align="center">Hi 👋, I'm Mahek Chaurasia</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I'm+Learning+%26+Building+AI+Agents;I'm+Diving+into+Full+Stack+Development;Let's+create+something+awesome+%E2%9C%A8" alt="Typing SVG" /> </p> 
 
 ---
 
