@@ -30,8 +30,6 @@
 ---
 
 ###  Tech Stack
-
-Frontend:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript&logoColor=white" />
