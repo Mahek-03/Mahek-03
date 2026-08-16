@@ -44,5 +44,3 @@
 
 
 <p align="center"><i>Thanks for stopping by! Give a ⭐ to a repo you like.</i></p>
-
-Designed with love by ~mahek C
