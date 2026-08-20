@@ -7,9 +7,8 @@
 -  Currently studying in **Mit Academy of Engineering**
 -  Currently learning **AI, CS Fundamentals, OOPS, DBMS, Agents, AI-OS, Automation**
 -  Ask me about **Agnetic AI**
--  Reach me at **mahek.chaurasia03@gmail.com**
--  Fun fact: It is physically impossible to hum a tune while holding your nose closed.
 -  Interest: **In research, internships and global opportunities.**
+-  Reach me at **mahek.chaurasia03@gmail.com**
 ---
 
 ###  Connect with Me
